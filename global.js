@@ -80,7 +80,7 @@ var Y_STRETCH = 30;						//	geometry.
 
 var POLY_WEIGHT = 5;					// weight of the spidered polylines
 var POLY_OPACITY = 1;					// opacity of the spidered polylines
-var POLY_COLOR = '#2027f9';				// color of the spidered polylines
+var POLY_COLOR = '#000000';				// color of the spidered polylines
 
 var MAX_LABEL_LINE_CHARS = 20;			// the max number of characters on a line in the floating labels
 
