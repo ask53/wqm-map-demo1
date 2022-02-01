@@ -87,35 +87,35 @@ var MAX_LABEL_LINE_CHARS = 20;			// the max number of characters on a line in th
 var STAMEN_MAP_TYPE = "terrain";		// Set which type of stamen map we want as a base layer.
 										// 	options include: "terrain", "watercolor", and "toner"
 
-var X_URL = "https://ask53.github.io/wqm-map/img/xButton_blue.png";		// URL for x-button used to close the spider
+var X_URL = "https://ask53.github.io/wqm-map-demo1/img/xButton_black.png";		// URL for x-button used to close the spider
 
-var BASE_URLS = ["https://ask53.github.io/wqm-map-demo1/img/grey-grey.png",		// URLs for points with white borders
-				"https://ask53.github.io/wqm-map-demo1/img/green-green.png",
-				"https://ask53.github.io/wqm-map-demo1/img/yellow-yellow.png",
-				"https://ask53.github.io/wqm-map-demo1/img/red-red.png",
-				"https://ask53.github.io/wqm-map-demo1/img/black-black.png"];
+var BASE_URLS = ["https://ask53.github.io/wqm-map-demo1/img/0_plain.png",	// URLs for point with blue borders
+				"https://ask53.github.io/wqm-map-demo1/img/1_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/2_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/3_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/4_plain.png"];
 
-var SPIDER_URLS = ["https://ask53.github.io/wqm-map-demo1/img/greySpider.png",	// URLs for point with blue borders
-				"https://ask53.github.io/wqm-map-demo1/img/greenSpider.png",
-				"https://ask53.github.io/wqm-map-demo1/img/yellowSpider.png",
-				"https://ask53.github.io/wqm-map-demo1/img/redSpider.png",
-				"https://ask53.github.io/wqm-map-demo1/img/blackSpider.png"];
+var SPIDER_URLS = ["https://ask53.github.io/wqm-map-demo1/img/0_plain.png",	// URLs for point with blue borders
+				"https://ask53.github.io/wqm-map-demo1/img/1_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/2_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/3_plain.png",
+				"https://ask53.github.io/wqm-map-demo1/img/4_plain.png"];
 
-var HISTORICAL_BASE_URLS = [["https://ask53.github.io/wqm-map-demo1/img/grey-white.png",		// URLs for points with specific borders
+var HISTORICAL_BASE_URLS = [["https://ask53.github.io/wqm-map-demo1/img/0_target.png",		// URLs for points with specific borders
 							"https://ask53.github.io/wqm-map-demo1/img/grey-green.png",
 							"https://ask53.github.io/wqm-map-demo1/img/grey-yellow.png",
 							"https://ask53.github.io/wqm-map-demo1/img/grey-red.png",
 							"https://ask53.github.io/wqm-map-demo1/img/grey-black.png"],
-							[0,"https://ask53.github.io/wqm-map-demo1/img/green-white.png",
+							[0,"https://ask53.github.io/wqm-map-demo1/img/1_target.png",
 							"https://ask53.github.io/wqm-map-demo1/img/green-yellow.png",
 							"https://ask53.github.io/wqm-map-demo1/img/green-red.png",
 							"https://ask53.github.io/wqm-map-demo1/img/green-black.png"],
-							[0,0,"https://ask53.github.io/wqm-map-demo1/img/yellow-white.png",
+							[0,0,"https://ask53.github.io/wqm-map-demo1/img/2_target.png",
 							"https://ask53.github.io/wqm-map-demo1/img/yellow-red.png",
 							"https://ask53.github.io/wqm-map-demo1/img/yellow-black.png"],
-							[0,0,0,"https://ask53.github.io/wqm-map-demo1/img/red-white.png",
+							[0,0,0,"https://ask53.github.io/wqm-map-demo1/img/3_target.png",
 							"https://ask53.github.io/wqm-map-demo1/img/red-black.png"],
-							[0,0,0,0,"https://ask53.github.io/wqm-map-demo1/img/black-white.png"]];
+							[0,0,0,0,"https://ask53.github.io/wqm-map-demo1/img/4_target.png"]];
 
 var SMALL_ICON_SIZE = [16,16]; 			// The pixel x and y that the final marker icon image is scaled to.
 var LARGE_ICON_SIZE = [24,24];			// A larger marker for the base of the spider
