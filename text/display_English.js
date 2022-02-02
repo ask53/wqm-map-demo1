@@ -53,7 +53,7 @@ var LABELS = [F_LABELS, AS_LABELS];
 
 var OLD_DATA_MSG = "<em>\xa0\xa0\xa0\xa0\xa0\xa0\xa0HISTORICAL DATA</em><br>";
 
-var LEGEND_URL = "https://caminosdeagua.github.io/wqm-map/img/howToRead_ENG.png";
+var LEGEND_URL = "https://ask53.github.io/wqm-map-demo1/img/howToRead_ENG.png";
 
 var PRINTING_SUMMARY_MSG = "\n-----***-----***-----***-----***-----***-----***-----\nGreat job, you hacker you! Enjoy the summary...\n-----***-----***-----***-----***-----***-----***-----\n "
 var TOTAL_SITES_MSG = "Distinct sites (wells, taps, pipa, etc.) sampled at least once:";
