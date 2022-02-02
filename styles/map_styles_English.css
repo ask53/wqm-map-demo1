@@ -299,6 +299,8 @@ div#map-tile-selector-div:hover .img-button-middle {
   cursor: pointer;
 }
 
+
+
 #overlay {
 	display: none;
 	position: fixed;
