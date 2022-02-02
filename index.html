@@ -89,8 +89,14 @@
 				Alternately, you can copy and paste one of the legend div elements from below
 			and reformat it to suit the needs of the contaminant you want to display. -->
 			
+			
+			
+			
+			
 			<!-- The legend for fluoride -->
-			<div class='cartodb-legend density' id='fluoride_legend' style='display: none'>  
+			
+			
+			<!--<div class='cartodb-legend density' id='fluoride_legend' style='display: none'>  
 				<ul>
 					<li class="min" style="text-transform:none" id="f_title"></li>
 					<li class="graph leg" style="border-radius: 0; border:none">
@@ -108,10 +114,15 @@
 						</div>
 					</li>
 				</ul>
-			</div>
+			</div>-->
+			
+			<img class="legend" id="fluoride_legend" style='display: none' src="https://ask53.github.io/wqm-map-demo1/img/legend_f.png" ></img>
+
+			
 			
 			<!-- The legend for arsenic -->
-			<div class='cartodb-legend density' id='arsenic_legend' style='display: none;'>  
+			
+			<!--<div class='cartodb-legend density' id='arsenic_legend' style='display: none;'>  
 				<ul>
 					<li class="min" id="as_title" style="text-transform:none" ></li>
 					<li class="graph leg" style="border-radius: 0; border:none">
@@ -127,10 +138,14 @@
 						</div>
 					</li>
 				</ul>
-			</div>
+			</div>-->
+			
+			
+			<img class="legend" id="arsenic_legend" style='display: none' src="https://ask53.github.io/wqm-map-demo1/img/legend_as.png" ></img>
 			
 			<!-- The legend for the Total Risk map -->
-			<div class='cartodb-legend custom' id='risk_legend' style="display: none">	
+			
+			<!--<div class='cartodb-legend custom' id='risk_legend' style="display: none">	
 				<div class="legend-title", id="risk_title" style="text-transform:none"></div>
 				<ul>
 					<li>
@@ -146,7 +161,9 @@
 						<div class="bullet" style="background:#d7191c; text-transform:none; border:1px solid black;" name="risk"></div>
 					</li>
 				</ul>
-			</div>
+			</div>-->
+			
+			<img class="legend" id="risk_legend" style='display: none' src="https://ask53.github.io/wqm-map-demo1/img/legend_risk.png" ></img>
 			
 			<img id="help_button" style="display: none;" class="toggle_button" onmouseenter="changeHelpSrc('hover')" onmouseleave="changeHelpSrc('leave')" onclick="openHelp()"></img>
 			<img id="how_to_read" onmouseenter="disableMapControls();" onmouseleave="enableMapControls();"></img>
