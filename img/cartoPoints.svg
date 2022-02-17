@@ -23,6 +23,42 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient2567"
+       inkscape:collect="always">
+      <stop
+         id="stop2563"
+         offset="0"
+         style="stop-color:#03beff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffff12;stop-opacity:1"
+         offset="0.35052761"
+         id="stop2571" />
+      <stop
+         style="stop-color:#fc8e22;stop-opacity:1"
+         offset="0.64996749"
+         id="stop2569" />
+      <stop
+         id="stop2565"
+         offset="1"
+         style="stop-color:#440809;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2559"
+       inkscape:collect="always">
+      <stop
+         id="stop2555"
+         offset="0"
+         style="stop-color:#03beff;stop-opacity:1" />
+      <stop
+         style="stop-color:#fc8e22;stop-opacity:1"
+         offset="0.5034138"
+         id="stop2561" />
+      <stop
+         id="stop2557"
+         offset="1"
+         style="stop-color:#440809;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient5401">
       <stop
@@ -232,6 +268,26 @@
        y2="13687.182"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,18.75)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2559"
+       id="linearGradient2532"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7755.6818,-8486.9319)"
+       x1="-6748.6562"
+       y1="12771.387"
+       x2="-4770.5312"
+       y2="12771.387" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2567"
+       id="linearGradient2534"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7755.6818,-8486.9319)"
+       x1="-6748.7852"
+       y1="13687.182"
+       x2="-4770.6602"
+       y2="13687.182" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -240,9 +296,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11"
-     inkscape:cx="-3863.4952"
-     inkscape:cy="-6575.1298"
+     inkscape:zoom="0.22"
+     inkscape:cx="1820.1923"
+     inkscape:cy="-3379.4844"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2323,8 +2379,8 @@
        id="rect4252-7"
        width="3004.4016"
        height="3781.7927"
-       x="1069.4508"
-       y="2318.5474"
+       x="8330.8145"
+       y="2829.9109"
        rx="150"
        ry="150"
        inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
@@ -2333,15 +2389,15 @@
     <circle
        style="opacity:1;fill:#009400;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4136-4-0-7-8"
-       cx="1748.5299"
-       cy="3864.7312"
+       cx="9009.8936"
+       cy="4376.0947"
        inkscape:export-xdpi="74.910797"
        inkscape:export-ydpi="74.910797"
        r="117.1779"
        inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
     <g
        id="g4287-2"
-       transform="translate(532.63867,4342.0523)">
+       transform="translate(7794.0023,4853.4159)">
       <circle
          inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
          r="117.1779"
@@ -2373,37 +2429,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2942.7183"
-       y="3121.8811"
+       x="10190.941"
+       y="3794.3015"
        id="text4311-9"
        transform="rotate(-1.2719172)"><tspan
          sodipodi:role="line"
-         x="2960.7358"
-         y="3121.8811"
+         x="10208.959"
+         y="3794.3015"
          id="tspan4315-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle">Punto <tspan
    style="font-weight:bold"
    id="tspan4783">con borde</tspan> = datos </tspan><tspan
          sodipodi:role="line"
-         x="2942.7183"
-         y="3234.4849"
+         x="10190.941"
+         y="3906.9053"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4728">históricos disponibles</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1774.5938"
-       y="2945.9431"
+       x="8887.1123"
+       y="4495.4526"
        id="text4327-35"
        transform="rotate(-8.2619669)"><tspan
          sodipodi:role="line"
          id="tspan4329-5"
-         x="1774.5938"
-         y="2945.9431"
+         x="8887.1123"
+         y="4495.4526"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print'">¿Cómo leer este mapa?</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1179.0568,2871.6902 3036.5286,2584.7087"
+       d="M 8440.4205,3383.0538 10297.892,3096.0723"
        id="path4331-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2411,13 +2467,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5116-2"
-       d="m 3425.2749,2384.585 c 72.7016,-166.853 178.4317,-270.6515 431.5182,-93.1334"
+       d="m 10686.639,2895.9486 c 72.701,-166.853 178.431,-270.6515 431.518,-93.1334"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <circle
        style="opacity:1;fill:#009400;fill-opacity:1;stroke:#dcdcdc;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4136-4-0-7-0-2"
-       cx="1764.9664"
-       cy="3023.9968"
+       cx="9026.3301"
+       cy="3535.3604"
        inkscape:export-xdpi="74.910797"
        inkscape:export-ydpi="74.910797"
        r="117.1779"
@@ -2425,132 +2481,132 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3060.1531"
-       y="2903.1685"
+       x="10300.831"
+       y="3652.4827"
        id="text4311-1-6"
        transform="rotate(-1.8800578)"><tspan
          sodipodi:role="line"
-         x="3078.1707"
-         y="2903.1685"
+         x="10318.849"
+         y="3652.4827"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4861-1"><tspan
    style="font-weight:bold"
    id="tspan4785">Sin borde</tspan> = este sitio representa </tspan><tspan
          sodipodi:role="line"
-         x="3060.1531"
-         y="3015.7722"
+         x="10300.831"
+         y="3765.0864"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4726">sólo un dato disponible</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1815.2906,3798.0478 138.5005,54.2064 -66.2759,-59.9054 47.9487,-76.1743 z"
+       d="m 9076.6543,4309.4114 138.5005,54.2064 -66.2759,-59.9054 47.9487,-76.1743 z"
        id="path4335-3-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2008.1321,4248.2921 137.7558,56.0718 -65.4609,-60.795 48.9732,-75.5198 z"
+       d="m 9269.4958,4759.6557 137.7558,56.0718 -65.4609,-60.795 48.9732,-75.5198 z"
        id="path4335-3-5-14"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1873.5746,3785.6403 c 2.7997,4.3688 425.275,78.1651 450.154,-132.4786 21.4739,-181.814 8.7622,-206.3347 184.5748,-130.0488"
+       d="m 9134.9383,4297.0039 c 2.7997,4.3688 425.275,78.1651 450.154,-132.4786 21.4739,-181.814 8.7622,-206.3347 184.5748,-130.0488"
        id="path4408-00"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3283.051"
-       y="3393.2673"
+       x="10553.118"
+       y="3760.7217"
        id="text4311-1-7-76"
        transform="rotate(1.1347993)"><tspan
          sodipodi:role="line"
-         x="3301.0686"
-         y="3393.2673"
+         x="10571.136"
+         y="3760.7217"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4865-2">Borde <tspan
    style="font-weight:bold"
    id="tspan4781">blanco</tspan> = sitio con datos </tspan><tspan
          sodipodi:role="line"
-         x="3301.0686"
-         y="3505.8711"
+         x="10571.136"
+         y="3873.3254"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4735">más recientes; tiene el peor </tspan><tspan
          sodipodi:role="line"
-         x="3283.051"
-         y="3618.3711"
+         x="10553.118"
+         y="3985.8254"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4741">nivel de contaminación registrado</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3147.428"
-       y="3858.5193"
+       x="10418.525"
+       y="4204.9795"
        id="text4311-1-7-7-3"
        transform="rotate(1.3002434)"><tspan
          sodipodi:role="line"
-         x="3165.4456"
-         y="3858.5193"
+         x="10436.543"
+         y="4204.9795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4748">Borde de <tspan
    style="font-weight:bold"
    id="tspan4779">color</tspan> = el sitio ha mejorado: </tspan><tspan
          sodipodi:role="line"
-         x="3165.4456"
-         y="3971.1228"
+         x="10436.543"
+         y="4317.583"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4752">el borde muestra el peor nivel </tspan><tspan
          sodipodi:role="line"
-         x="3147.428"
-         y="4083.6228"
+         x="10418.525"
+         y="4430.083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4754">de contaminación registrado</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2057.8135,4237.7174 c 1313.8145,-106.9928 1622.9686,436.8104 1596.3231,-12.1169"
+       d="M 9319.1772,4749.081 C 10632.992,4642.0882 10942.146,5185.8914 10915.5,4736.9641"
        id="path4523-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1841.8668,3038.9297 138.9457,53.0542 -66.771,-59.3529 47.3146,-76.5698 z"
+       d="m 9103.2305,3550.2933 138.9457,53.0542 -66.771,-59.3529 47.3146,-76.5698 z"
        id="path4335-30"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1913.898,3040.1244 c 19.3651,-20.5272 182.6292,29.538 157.9688,-66.6756 -32.9455,-128.5385 298.3393,-94.2639 527.6431,-96.5641"
+       d="m 9175.2617,3551.488 c 19.3651,-20.5272 182.6292,29.538 157.9688,-66.6756 -32.9455,-128.5385 298.3393,-94.2639 527.6431,-96.5641"
        id="path4531-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1631.2745,3669.4986 c -3.1834,0.4161 -9.1135,38.0563 -65.6238,47.8588 -179.7014,31.1718 20.0542,291.9422 -165.1343,338.2872 182.1445,40.6077 -19.4534,336.3197 152.1764,359.8465 83.0134,11.3793 102.1025,65.6676 106.85,66.3385"
+       d="m 8892.6382,4180.8622 c -3.1834,0.4161 -9.1135,38.0563 -65.6238,47.8588 -179.7014,31.1718 20.0542,291.9422 -165.1343,338.2872 182.1445,40.6077 -19.4534,336.3197 152.1764,359.8465 83.0134,11.3793 102.1025,65.6676 106.85,66.3385"
        id="path4533-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2429.46,3109.9153 c -188.6215,20.4968 -162.0772,378.5063 -624.0011,227.9815 -380.7243,-124.0647 -714.6477,482.0415 -500.9028,694.2893 l 4.3903,-3.3479"
+       d="m 9690.8237,3621.2789 c -188.6215,20.4968 -162.0772,378.5063 -624.0011,227.9815 -380.7243,-124.0647 -714.6477,482.0415 -500.9028,694.2893 l 4.3903,-3.3479"
        id="path4622-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1327.4597,4045.6814 -142.5487,-42.4333 89.1022,-6.4782 9.0373,-89.5541 z"
+       d="m 8588.8234,4557.045 -142.5487,-42.4333 89.1022,-6.4782 9.0373,-89.5541 z"
        id="path4335-3-5-9-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#ff9400;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4136-4-0-9-10-2"
-       cx="1525.3531"
-       cy="5743.5967"
+       cx="8786.7168"
+       cy="6254.9604"
        inkscape:export-xdpi="74.910797"
        inkscape:export-ydpi="74.910797"
        r="117.1779"
        inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\yellow-black.png" />
     <g
        id="g4473-8"
-       transform="translate(941.71687,4529.8037)">
+       transform="translate(8203.0805,5041.1673)">
       <g
          transform="matrix(0.72051516,0,0,0.75405585,217.87072,-766.66276)"
          id="g4413-3">
@@ -2707,7 +2763,7 @@
     </g>
     <g
        id="g4588-6"
-       transform="translate(569.18307,4579.4749)">
+       transform="translate(7830.5467,5090.8385)">
       <path
          inkscape:connector-curvature="0"
          id="path4335-3-5-9-6-4"
@@ -2722,80 +2778,80 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1531.1963"
-       y="4986.3135"
+       x="3975.3162"
+       y="9747.3232"
        id="text4311-1-7-3-2"
        transform="rotate(-36.818901)"><tspan
          sodipodi:role="line"
-         x="-1513.1787"
-         y="4986.3135"
+         x="3993.3337"
+         y="9747.3232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4767">Por <tspan
    style="font-weight:bold"
    id="tspan4777">ejemplo</tspan> , haz click en </tspan><tspan
          sodipodi:role="line"
-         x="-1531.1963"
-         y="5098.917"
+         x="3975.3162"
+         y="9859.9268"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4771">este punto con borde negro para</tspan><tspan
          sodipodi:role="line"
-         x="-1513.1787"
-         y="5211.417"
+         x="3993.3337"
+         y="9972.4268"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4773"> que desplieguen los datos </tspan><tspan
          sodipodi:role="line"
-         x="-1531.1963"
-         y="5323.917"
+         x="3975.3162"
+         y="10084.927"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4775">históricos del sitio</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="5797.5327"
-       y="1206.5796"
+       x="11461.52"
+       y="-3365.9639"
        id="text4311-1-7-3-4-5"
        transform="rotate(42.942245)"><tspan
          sodipodi:role="line"
-         x="5815.5503"
-         y="1206.5796"
+         x="11479.537"
+         y="-3365.9639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4804">Observa que el peor nivel de </tspan><tspan
          sodipodi:role="line"
-         x="5815.5503"
-         y="1319.0796"
+         x="11479.537"
+         y="-3253.4639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4808">contaminación es negro y con borde de </tspan><tspan
          sodipodi:role="line"
-         x="5815.5503"
-         y="1431.5796"
+         x="11479.537"
+         y="-3140.9639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4810">color. Para encontrar más información </tspan><tspan
          sodipodi:role="line"
-         x="5815.5503"
-         y="1544.0796"
+         x="11479.537"
+         y="-3028.4639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4812">sobre ese lugar en el pasado, haz click en </tspan><tspan
          sodipodi:role="line"
-         x="5815.5503"
-         y="1656.5796"
+         x="11479.537"
+         y="-2915.9639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4827">cualquiera de los puntos con </tspan><tspan
          sodipodi:role="line"
-         x="5797.5327"
-         y="1769.0796"
+         x="11461.52"
+         y="-2803.4639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';text-align:center;text-anchor:middle"
          id="tspan4841">datos históricos.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="128.40131"
-       y="6072.0049"
+       x="6861.7666"
+       y="8837.9922"
        id="text4676-35"
        transform="rotate(-18.30402)"><tspan
          sodipodi:role="line"
          id="tspan4678-9"
-         x="128.40131"
-         y="6072.0049"
+         x="6861.7666"
+         y="8837.9922"
          style="font-weight:bold;font-size:90px;line-height:1.25;fill:#c70000;fill-opacity:1">CLICK!</tspan></text>
     <g
        id="g4421-0"
@@ -5355,7 +5411,7 @@
            id="tspan3732"
            sodipodi:role="line">Mexican limit: <tspan
    id="tspan3730"
-   style="font-weight:bold"></tspan></tspan><tspan
+   style="font-weight:bold" /></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
            y="11836.557"
            x="877.3808"
@@ -5803,7 +5859,7 @@
            y="11722.393"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">Mexican limit: <tspan
    style="font-weight:bold"
-   id="tspan4222"></tspan></tspan><tspan
+   id="tspan4222" /></tspan><tspan
            id="tspan4228"
            sodipodi:role="line"
            x="877.3808"
@@ -6409,7 +6465,7 @@
            id="tspan4523"
            sodipodi:role="line">Mexican limit: <tspan
    id="tspan4521"
-   style="font-weight:bold"></tspan></tspan><tspan
+   style="font-weight:bold" /></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
            y="11836.557"
            x="877.3808"
@@ -7170,7 +7226,7 @@
            y="11722.393"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">Mexican limit: <tspan
    style="font-weight:bold"
-   id="tspan5097"></tspan></tspan><tspan
+   id="tspan5097" /></tspan><tspan
            id="tspan5103"
            sodipodi:role="line"
            x="877.3808"
@@ -7676,6 +7732,934 @@
          inkscape:export-ydpi="74.910812"
          r="46.871162"
          inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png" />
+    </g>
+    <circle
+       style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2170"
+       cx="-292.43082"
+       cy="4411.7349"
+       inkscape:export-xdpi="74.910797"
+       inkscape:export-ydpi="74.910797"
+       r="117.1779"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
+    <circle
+       style="opacity:1;fill:#ffff12;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2172"
+       cx="-9.325099"
+       cy="4411.7349"
+       inkscape:export-xdpi="74.910797"
+       inkscape:export-ydpi="74.910797"
+       r="117.1779"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\yellow-black.png" />
+    <circle
+       style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2174"
+       cx="273.78061"
+       cy="4411.7349"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812"
+       r="117.1779"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\red-black.png" />
+    <circle
+       style="opacity:1;fill:#440809;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2176"
+       cx="556.8866"
+       cy="4416.1245"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812"
+       r="117.1779"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png" />
+    <g
+       transform="translate(2795.0263,-208.85878)"
+       id="g2204">
+      <rect
+         style="opacity:1;fill:#787878;fill-opacity:1;stroke:#006600;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2178"
+         width="1050.0536"
+         height="811.40497"
+         x="-4597.9619"
+         y="4191.9165" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:125%;font-family:'Dark Hammer';-inkscape-font-specification:'Dark Hammer';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="scale(0.9375)"><flowRegion
+           id="flowRegion2182"><rect
+             id="rect2180"
+             width="1023.8906"
+             height="865.49866"
+             x="-4825.2964"
+             y="4510.9751" /></flowRegion><flowPara
+           id="flowPara2184"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'">High contrast color scheme:</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'"
+           id="flowPara2188">Lvl 1 (low risk): <flowSpan
+   style="fill:#abd9e9;fill-opacity:1"
+   id="flowSpan2186">#abd9e9</flowSpan>  </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'"
+           id="flowPara2192">Lvl 2: <flowSpan
+   style="fill:#ffffbf;fill-opacity:1"
+   id="flowSpan2190">#ffffbf</flowSpan></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'"
+           id="flowPara2196">Lvl 3: #<flowSpan
+   style="fill:#fdae61;fill-opacity:1"
+   id="flowSpan2194">fdae61</flowSpan></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'"
+           id="flowPara2200">Lvl 4 (hi risk): <flowSpan
+   style="fill:#d7191c;fill-opacity:1"
+   id="flowSpan2198">#d7191c</flowSpan> </flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="74.910812"
+       inkscape:export-xdpi="74.910812"
+       transform="translate(2284.0909,57.802981)"
+       id="g2214">
+      <circle
+         r="117.1779"
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         cy="4918.2876"
+         cx="-2859.6274"
+         id="circle2206"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(0.92090662,0,0,0.93867138,-1357.8144,4205.1461)"
+         id="g2212">
+        <rect
+           style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#003aff;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2208"
+           width="45.982807"
+           height="198.26353"
+           x="1668.9507"
+           y="524.33966"
+           ry="13.254449"
+           transform="matrix(-0.70418168,0.71001983,-0.70418185,-0.71001966,0,0)" />
+        <rect
+           style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#003aff;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2210"
+           width="45.982807"
+           height="198.26353"
+           x="599.88275"
+           y="-1789.5809"
+           ry="13.250318"
+           transform="matrix(-0.70418185,-0.71001966,0.70418168,-0.71001983,0,0)" />
+      </g>
+    </g>
+    <ellipse
+       ry="63.935722"
+       rx="65.322884"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse2218"
+       cx="556.88654"
+       cy="4694.8408" />
+    <g
+       id="g2282"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2222"
+         cx="273.78061"
+         cy="4694.8408"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812"
+         r="117.1779"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\red-black.png" />
+      <ellipse
+         ry="63.935722"
+         rx="65.322884"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse2224"
+         cx="273.78061"
+         cy="4694.8408" />
+    </g>
+    <g
+       id="g2286"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         style="opacity:1;fill:#ffff12;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2228"
+         cx="-9.3251152"
+         cy="4694.8408"
+         inkscape:export-xdpi="74.910797"
+         inkscape:export-ydpi="74.910797"
+         r="117.1779"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\yellow-black.png" />
+      <ellipse
+         cy="4694.8408"
+         cx="-9.3251152"
+         id="ellipse2230"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="65.322884"
+         ry="63.935722" />
+    </g>
+    <g
+       id="g2290"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2234"
+         cx="-292.43082"
+         cy="4694.8408"
+         inkscape:export-xdpi="74.910797"
+         inkscape:export-ydpi="74.910797"
+         r="117.1779"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
+      <ellipse
+         ry="63.935722"
+         rx="65.322884"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse2236"
+         cx="-292.43082"
+         cy="4694.8408" />
+    </g>
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+       r="117.1779"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-xdpi="74.910797"
+       cy="4411.7349"
+       cx="-576.81531"
+       id="circle2240"
+       style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g2246"
+       transform="translate(2752.8408,-34.090909)">
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+         r="117.1779"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="4728.9316"
+         cx="-3328.3774"
+         id="circle2242"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         cy="4728.9316"
+         cx="-3328.3774"
+         id="ellipse2244"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="65.322884"
+         ry="63.935722" />
+    </g>
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+       r="117.1779"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-xdpi="74.910797"
+       cy="4130.4849"
+       cx="-292.43082"
+       id="circle2248"
+       style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\yellow-black.png"
+       r="117.1779"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-xdpi="74.910797"
+       cy="4130.4849"
+       cx="-9.325099"
+       id="circle2250"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\red-black.png"
+       r="117.1779"
+       inkscape:export-ydpi="74.910812"
+       inkscape:export-xdpi="74.910812"
+       cy="4130.4849"
+       cx="273.78061"
+       id="circle2252"
+       style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png"
+       r="117.1779"
+       inkscape:export-ydpi="74.910812"
+       inkscape:export-xdpi="74.910812"
+       cy="4134.8745"
+       cx="556.8866"
+       id="circle2254"
+       style="opacity:1;fill:#440809;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2256"
+       cx="-576.81531"
+       cy="4130.4849"
+       inkscape:export-xdpi="74.910797"
+       inkscape:export-ydpi="74.910797"
+       r="117.1779"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png" />
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-xdpi="74.910797"
+       cy="4130.4849"
+       cx="-292.43082"
+       id="circle2258"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="23.4375" />
+    <circle
+       r="23.4375"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2260"
+       cx="-9.325099"
+       cy="4130.4849"
+       inkscape:export-xdpi="74.910797"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png" />
+    <circle
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-xdpi="74.910797"
+       cy="4130.4849"
+       cx="556.8866"
+       id="circle2262"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="23.4375" />
+    <circle
+       r="23.4375"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2264"
+       cx="273.78061"
+       cy="4130.4849"
+       inkscape:export-xdpi="74.910797"
+       inkscape:export-ydpi="74.910797"
+       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png" />
+    <g
+       id="g2320"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         style="opacity:1;fill:#440809;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2216"
+         cx="556.88654"
+         cy="4699.2305"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812"
+         r="117.1779"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png" />
+      <ellipse
+         ry="63.935722"
+         rx="65.322884"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse2268"
+         cx="556.88654"
+         cy="4699.2305" />
+    </g>
+    <g
+       id="g2644"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <rect
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
+         ry="22.960735"
+         rx="24.162127"
+         y="2979.1765"
+         x="936.76337"
+         height="805.81848"
+         width="2118.6497"
+         id="rect2322"
+         style="opacity:1;fill:#fafafa;fill-opacity:0.96078431;stroke:#000000;stroke-width:4.78843117;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2326"
+         y="3186.2078"
+         x="995.79803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.12533569px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           y="3186.2078"
+           x="995.79803"
+           id="tspan2324"
+           sodipodi:role="line">Water Risk Level</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2328"
+         d="M 1007.0252,3213.3531 H 2178.8558"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2436"
+         y="3343.6296"
+         x="1231.5261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2434"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           y="3343.6296"
+           x="1231.5261"
+           sodipodi:role="line">Meets all standards</tspan></text>
+      <g
+         transform="translate(8047.449,-3102.6528)"
+         id="g2468">
+        <rect
+           inkscape:export-ydpi="74.910812"
+           inkscape:export-xdpi="74.910812"
+           inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
+           ry="22.001949"
+           rx="24.163126"
+           y="6081.7783"
+           x="-5780.9937"
+           height="369.69687"
+           width="789.00751"
+           id="rect2438"
+           style="opacity:1;fill:#464646;fill-opacity:1;stroke:#000000;stroke-width:4.6875;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2442"
+           y="6185.1953"
+           x="-5624.2227"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+             y="6185.1953"
+             x="-5624.2227"
+             id="tspan2440"
+             sodipodi:role="line">WHO Limits</tspan></text>
+        <g
+           transform="translate(-6728.2014,-5006.0217)"
+           id="g2452">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1025.986"
+             y="11295.58"
+             id="text2446"><tspan
+               sodipodi:role="line"
+               x="1025.986"
+               y="11295.58"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+               id="tspan2444">Fluoride</tspan></text>
+          <text
+             id="text2450"
+             y="11405.08"
+             x="1053.511"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               id="tspan2448"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+               y="11405.08"
+               x="1053.511"
+               sodipodi:role="line">Arsenic</tspan></text>
+        </g>
+        <g
+           style="opacity:0.98999999;fill:#ffff12;fill-opacity:1"
+           transform="translate(-6765.7014,-5006.0217)"
+           id="g2466">
+          <text
+             id="text2458"
+             y="11291.58"
+             x="1389.3259"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffff12;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               id="tspan2456"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffff12;fill-opacity:1;stroke-width:3.42250657px"
+               y="11291.58"
+               x="1389.3259"
+               sodipodi:role="line"><tspan
+   id="tspan2454"
+   style="font-weight:bold;fill:#ffff12;fill-opacity:1">1.5</tspan> mg/L</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffff12;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1389.3259"
+             y="11406.2"
+             id="text2464"><tspan
+               sodipodi:role="line"
+               x="1389.3259"
+               y="11406.2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffff12;fill-opacity:1;stroke-width:3.42250657px"
+               id="tspan2462"><tspan
+   id="tspan2460"
+   style="font-weight:bold;fill:#ffff12;fill-opacity:1">10</tspan> μg/L</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1228.8748"
+         y="3453.7634"
+         id="text2472"><tspan
+           sodipodi:role="line"
+           x="1228.8748"
+           y="3453.7634"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           id="tspan2470">Not safe for children under the age of seven</tspan></text>
+      <text
+         id="text2476"
+         y="3574.6951"
+         x="1228.8748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           y="3574.6951"
+           x="1228.8748"
+           sodipodi:role="line">Dangerous if consumed regularly</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1230.7498"
+         y="3695.988"
+         id="text2480"><tspan
+           sodipodi:role="line"
+           x="1230.7498"
+           y="3695.988"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           id="tspan2478">Potentially acutely toxic</tspan></text>
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="3307.2019"
+         cx="1088.6233"
+         id="circle2482"
+         style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         cy="3673.1267"
+         cx="1088.6233"
+         id="circle2484"
+         style="opacity:1;fill:#440809;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2536"
+         cx="1088.6233"
+         cy="3551.1516"
+         inkscape:export-xdpi="74.910797"
+         inkscape:export-ydpi="74.910797"
+         r="46.871162"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="3429.178"
+         cx="1088.6233"
+         id="circle2538"
+         style="opacity:1;fill:#ffff12;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2680"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <rect
+         style="opacity:1;fill:#fafafa;fill-opacity:0.96078431;stroke:#000000;stroke-width:5.00561142;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2330"
+         width="2118.4324"
+         height="880.66266"
+         x="936.87177"
+         y="3845.2019"
+         rx="24.159649"
+         ry="25.093319"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812" />
+      <g
+         id="g2338"
+         transform="translate(1298.4622,-7226.658)">
+        <text
+           id="text2334"
+           y="11278.784"
+           x="-302.66437"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.12533569px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+             y="11278.784"
+             x="-302.66437"
+             id="tspan2332"
+             sodipodi:role="line">Arsenic (μg/L)</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2336"
+           d="M -291.437,11305.93 H 824.1436"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <rect
+         y="4179.4551"
+         x="1011.7131"
+         height="210"
+         width="1968.75"
+         id="rect2340"
+         style="opacity:1;fill:url(#linearGradient2532);fill-opacity:1;stroke:#000000;stroke-width:9.375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1667.9626,4174.7671 v 219.375"
+         id="path2342"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2344"
+         d="m 2324.2126,4174.7671 v 219.375"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2346"
+         d="m 2324.2126,4174.7671 v 488.095"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2356"
+         y="4514.4849"
+         x="2351.2808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           y="4514.4849"
+           x="2351.2808"
+           id="tspan2350"
+           sodipodi:role="line">Mexican limit: <tspan
+   id="tspan2348"
+   style="font-weight:bold" /></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+           y="4628.6489"
+           x="2351.2808"
+           sodipodi:role="line"
+           id="tspan2354"><tspan
+   style="font-weight:bold"
+   id="tspan2352">25</tspan> μg/L</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 2881.673,4662.8621 H 2324.2126"
+         id="path2358"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2597"
+         width="335.82516"
+         height="135.52637"
+         x="1667.9626"
+         y="4258.6157"
+         rx="18.75"
+         ry="18.75" />
+      <g
+         id="g2372"
+         transform="translate(1524.5249,-7209.7829)">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2360"
+           d="m 143.4377,11384.55 v 488.095"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2368"
+           y="11724.268"
+           x="170.5058"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+             y="11724.268"
+             x="170.5058"
+             id="tspan2362"
+             sodipodi:role="line">WHO limit: </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+             y="11838.432"
+             x="170.5058"
+             sodipodi:role="line"
+             id="tspan2366"><tspan
+   style="font-weight:bold"
+   id="tspan2364">10</tspan> μg/L</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 594.9606,11872.645 H 143.4377"
+           id="path2370"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <rect
+         ry="18.75"
+         rx="18.75"
+         y="4253.9287"
+         x="1011.7131"
+         height="135.52629"
+         width="259.12054"
+         id="rect2587"
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2378"
+         y="4355.3828"
+         x="1038.8556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+           y="4355.3828"
+           x="1038.8556"
+           id="tspan2376"
+           sodipodi:role="line">0 - 9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1697.7151"
+         y="4355.3828"
+         id="text2382"><tspan
+           sodipodi:role="line"
+           id="tspan2380"
+           x="1697.7151"
+           y="4355.3828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px">10 - 24</tspan></text>
+      <rect
+         ry="18.75"
+         rx="18.75"
+         y="4258.6157"
+         x="2324.2126"
+         height="135.52637"
+         width="195.2002"
+         id="rect2599"
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2386"
+         y="4355.3828"
+         x="2352.5251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+           y="4355.3828"
+           x="2352.5251"
+           id="tspan2384"
+           sodipodi:role="line">25+</tspan></text>
+      <circle
+         style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2500"
+         cx="1088.0212"
+         cy="4180.7637"
+         inkscape:export-xdpi="74.910797"
+         inkscape:export-ydpi="74.910797"
+         r="46.871162"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
+      <circle
+         style="opacity:1;fill:#440809;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2510"
+         cx="2400.5212"
+         cy="4180.7637"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812"
+         r="46.871162"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="4180.7637"
+         cx="1744.2716"
+         id="circle2540"
+         style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2713"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <rect
+         style="opacity:1;fill:#fafafa;fill-opacity:0.96078431;stroke:#000000;stroke-width:4.64777327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2388"
+         width="2118.7903"
+         height="759.12219"
+         x="936.56464"
+         y="4760.8203"
+         rx="24.163731"
+         ry="21.630188"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812" />
+      <g
+         id="g2396"
+         transform="translate(1298.3335,-6310.8629)">
+        <text
+           id="text2392"
+           y="11278.784"
+           x="-302.66437"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.12533569px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+             y="11278.784"
+             x="-302.66437"
+             id="tspan2390"
+             sodipodi:role="line">Fluoride (mg/L)</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2394"
+           d="M -291.437,11305.93 H 824.1436"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <rect
+         y="5095.2505"
+         x="1011.5842"
+         height="210"
+         width="1968.75"
+         id="rect2398"
+         style="opacity:1;fill:url(#linearGradient2534);fill-opacity:1;stroke:#000000;stroke-width:9.375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2400"
+         d="m 1995.9591,5090.5621 v 219.375"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1503.7715,5090.5621 v 219.375"
+         id="path2402"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2404"
+         d="m 2488.1465,5090.5621 v 219.375"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2601"
+         width="298.29272"
+         height="135.52637"
+         x="1011.5842"
+         y="5169.7241"
+         rx="18.75"
+         ry="18.75" />
+      <text
+         id="text2408"
+         y="5271.1782"
+         x="1038.7267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+           y="5271.1782"
+           x="1038.7267"
+           id="tspan2406"
+           sodipodi:role="line">0 - 1.4</tspan></text>
+      <rect
+         ry="18.75"
+         rx="18.75"
+         y="5174.4106"
+         x="1503.7715"
+         height="135.52637"
+         width="355.54428"
+         id="rect2603"
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1533.524"
+         y="5271.1782"
+         id="text2412"><tspan
+           sodipodi:role="line"
+           id="tspan2410"
+           x="1533.524"
+           y="5271.1782"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px">1.5 - 2.9</tspan></text>
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2605"
+         width="305.82596"
+         height="135.52637"
+         x="1995.9591"
+         y="5174.4106"
+         rx="18.75"
+         ry="18.75" />
+      <text
+         id="text2416"
+         y="5271.1782"
+         x="2025.1716"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px"
+           y="5271.1782"
+           x="2025.1716"
+           id="tspan2414"
+           sodipodi:role="line">3 - 9.9</tspan></text>
+      <rect
+         ry="18.75"
+         rx="18.75"
+         y="5174.4106"
+         x="2488.1465"
+         height="135.52637"
+         width="194.33597"
+         id="rect2607"
+         style="opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="2517.8989"
+         y="5271.1782"
+         id="text2420"><tspan
+           sodipodi:role="line"
+           id="tspan2418"
+           x="2517.8989"
+           y="5271.1782"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke-width:3.42250657px">10+</tspan></text>
+      <g
+         id="g2432"
+         transform="translate(1319.0838,-6292.1132)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 184.6877,11382.675 v 371.845"
+           id="path2422"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="211.7558"
+           y="11722.393"
+           id="text2428"><tspan
+             sodipodi:role="line"
+             id="tspan2426"
+             x="211.7558"
+             y="11722.393"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">WHO &amp; Mexican limits: <tspan
+   style="font-weight:bold"
+   id="tspan2424">1.5</tspan> mg/L</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2430"
+           d="M 1447.4871,11754.52 H 184.6877"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.37500002, 9.37500002;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="5096.5571"
+         cx="1087.8927"
+         id="circle2512"
+         style="opacity:1;fill:#03beff;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\black-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         cy="5096.5581"
+         cx="2564.4553"
+         id="circle2528"
+         style="opacity:1;fill:#440809;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#fc8e22;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2551"
+         cx="2072.2676"
+         cy="5096.5571"
+         inkscape:export-xdpi="74.910797"
+         inkscape:export-ydpi="74.910797"
+         r="46.871162"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\green-black.png"
+         r="46.871162"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="5096.5571"
+         cx="1580.0802"
+         id="circle2553"
+         style="opacity:1;fill:#ffff12;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
