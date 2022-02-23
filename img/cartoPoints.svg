@@ -408,8 +408,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="3105.5142"
-     inkscape:cy="-3183.2805"
+     inkscape:cx="-262.4858"
+     inkscape:cy="-4783.2805"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3755,7 +3755,8 @@
        id="g1872"
        inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\howToRead_ENG.png"
        inkscape:export-xdpi="74.910812"
-       inkscape:export-ydpi="74.910812">
+       inkscape:export-ydpi="74.910812"
+       transform="translate(4222.5,457.5)">
       <rect
          style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:19.26123238;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1637"
@@ -3882,7 +3883,8 @@
        id="g1894"
        inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\howToRead_ESP.png"
        inkscape:export-xdpi="74.910812"
-       inkscape:export-ydpi="74.910812">
+       inkscape:export-ydpi="74.910812"
+       transform="translate(4222.5,457.5)">
       <g
          id="g1818">
         <rect
@@ -8157,7 +8159,9 @@
          cy="4699.2305" />
     </g>
     <g
-       id="g4284">
+       id="g4284"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
       <rect
          inkscape:export-ydpi="74.910812"
          inkscape:export-xdpi="74.910812"
