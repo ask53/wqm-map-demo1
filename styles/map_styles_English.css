@@ -138,11 +138,17 @@ allows the user to select the relevant contaminant. */
 img.legend {
 	position: fixed;
 	width: 400px;
-	max-width: 50vw;
 	z-index: 99;
 	bottom: 22px;
 	right: 5px
 }
+
+@media only screen and (max-width: 445px) {
+	img.legend {
+		width: 90%;
+	}
+}
+	
 
 #how_to_read {
 	display: block;
