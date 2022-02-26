@@ -159,12 +159,18 @@ img.legend {
 }
 
 .toggle_button {
+	height: 40px;
 	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark.png');
 	display: block;
 	z-index: 30002;
 	position: absolute;
 	right: 30px;
 	top: 30px;
+	box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3); 
+	-moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+	-o-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
+	border-radius: 20px;
 }
 
 .toggle_button:hover {
@@ -173,20 +179,16 @@ img.legend {
 }
 
 .toggle_button.active {
+	height: 30px;
 	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X.png');
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	-o-box-shadow: none;
 }
 
 .toggle_button.active:hover {
 	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X_hover.png');	
-}
-
-#help_button {
-	height: 30px;
-	box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3); 
-	-moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
-	-webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
-	-o-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
-	border-radius: 100px;
 }
 
 #search{
