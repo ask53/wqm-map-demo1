@@ -1120,7 +1120,7 @@ function detectMobile() {	// Thanks to Michael Zaporozhets for this function: ht
 };
 
 function adjustDisplayForMobile() {
-	closeHelp();
+	toggleHelp();
 	console.log(document.getElementById("overlay_title").style.fontSize = "36px");
 	console.log(document.getElementById("overlay_msg").style.fontSize = "22px");
 }
