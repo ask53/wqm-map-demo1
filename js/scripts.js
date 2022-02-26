@@ -75,7 +75,7 @@ function setGlobals() {
 	//document.getElementById("f_title").innerHTML = F_TITLE;
 	//document.getElementById("as_title").innerHTML = AS_TITLE;
 	//document.getElementById("risk_title").innerHTML = RISK_TITLE;
-	document.getElementById("how_to_read").src = LEGEND_URL;
+	document.getElementById("how_to_read").src = HOW2READ_URL;
 	document.getElementById("help_button").src = HELP_URL;
 
 	document.getElementById("search").innerHTML = SEARCH_HELPER_TEXT;
