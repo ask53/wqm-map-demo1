@@ -154,7 +154,9 @@ img.legend {
 	border-radius: 5%
 }
 
-#how_to_read.inactive{}
+#how_to_read.inactive{
+	display: none;
+}
 
 .toggle_button {
 	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark.png');

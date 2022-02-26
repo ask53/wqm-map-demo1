@@ -880,7 +880,7 @@ $(document).bind('keypress', function (event) {
 
 function toggleHelp() {
 	$('#help_button').toggleClass('active');
-
+	$('#how_to_read').toggleClass('inactive');
 }
 
 
