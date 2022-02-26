@@ -88,6 +88,9 @@ function setGlobals() {
 	$("#overlay").corner("keep 16px cc:#222");	// adjust inner border corners
 	$("#overlay").css("display", "inline-block");	// display overlay once stuff loads!
 
+	document.getElementById("risk_legend").src = LEGEND_RISK_URL;
+	document.getElementById("fluoride_legend").src = LEGEND_F_URL;
+	document.getElementById("arsenic_legend").src = LEGEND_AS_URL;
 }
 
 

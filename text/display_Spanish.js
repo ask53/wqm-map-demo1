@@ -80,3 +80,7 @@ var WATER_SOURCE_MESSAGE = "Tipo";
 var F_UNITS = "mg/L";
 var AS_UNITS = "&mu;g/L";
 var TESTED_BY = "Probado por: ";
+
+var LEGEND_RISK_URL = "img/legend_risk_ESP.png"
+var LEGEND_F_URL = "img/legend_f_ESP.png"
+var LEGEND_AS_URL = "img/legend_as_ESP.png"
