@@ -407,11 +407,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1623.0207"
-     inkscape:cy="-6532.318"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="-5578.2995"
+     inkscape:cy="937.94271"
      inkscape:document-units="px"
-     inkscape:current-layer="g2720"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -1334,15 +1334,6 @@
        id="path4174"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccc" />
-    <circle
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#969696;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4579"
-       cx="-4656.5889"
-       cy="-323.39236"
-       r="446.513"
-       inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\questionMark2.png"
-       inkscape:export-xdpi="74.910812"
-       inkscape:export-ydpi="74.910812" />
     <g
        id="g4208"
        inkscape:export-xdpi="74.910797"
@@ -1450,18 +1441,6 @@
          d="m -2194,-897.6378 0,-150"
          style="fill:none;fill-rule:evenodd;stroke:#787878;stroke-width:11.99988556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:47.99954189, 11.99988547000000100;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#969696;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.44030905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-4302.8784"
-       y="13.14941"
-       id="text4581"
-       transform="scale(1.0795406,0.92631997)"><tspan
-         sodipodi:role="line"
-         id="tspan4583"
-         x="-4302.8784"
-         y="13.14941"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1080.23181152px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#969696;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.44030905px;stroke-opacity:1">?</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4585"
@@ -3118,7 +3097,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g2673"
-       transform="translate(870.60959,-2449.7079)">
+       transform="translate(1208.1096,-2472.2079)">
       <path
          inkscape:connector-curvature="0"
          id="path2669"
@@ -10185,6 +10164,102 @@
              id="tspan2628"
              sodipodi:role="line">Clic los puntos para ver:</tspan></text>
       </g>
+    </g>
+    <g
+       id="g2782"
+       inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\HowToRead_QuestionMark.png"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812"
+       transform="matrix(0.23620788,0,0,0.23620788,-3999.3265,105.49545)">
+      <circle
+         style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#969696;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2722"
+         cx="-5687.8389"
+         cy="-323.39236"
+         r="446.513"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\questionMark2.png"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.44030905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5258.1543"
+         y="13.14941"
+         id="text2726"
+         transform="scale(1.0795406,0.92631996)"><tspan
+           sodipodi:role="line"
+           id="tspan2724"
+           x="-5258.1543"
+           y="13.14941"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1080.23181152px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#969696;fill-opacity:1;stroke:none;stroke-width:1.44030905px;stroke-opacity:1">?</tspan></text>
+    </g>
+    <g
+       id="g2786"
+       inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\HowToRead_X.png"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812"
+       transform="matrix(0.23620788,0,0,0.23620788,-3999.3265,105.49545)">
+      <circle
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\questionMark2.png"
+         r="446.513"
+         cy="-323.39236"
+         cx="-4656.5889"
+         id="path4579"
+         style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:#969696;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2728"
+         d="m -4415.0152,-50.887518 30.9357,-30.935639 c 44.7274,-35.300613 19.7241,-42.147243 -15.4688,-77.340113 l -32.846,-32.84602 -32.8459,-32.84596 -32.8461,-32.84602 -32.8459,-32.84596 c -37.6472,-32.60118 -32.9673,-32.72485 1e-4,-65.69222 l 32.8462,-32.8462 32.8462,-32.84621 32.8462,-32.8462 32.8462,-32.8462 c 40.4468,-38.76501 54.5801,-38.22864 15.4684,-77.34045 l -30.936,-30.9359 c -35.3008,-44.72718 -42.1463,-19.72541 -77.3387,15.46826 l -32.8464,32.84638 -32.8463,32.84638 -32.8464,32.84638 -32.8464,32.84638 c -32.6014,37.64733 -32.725,32.96779 -65.6926,2.1e-4 l -32.8461,-32.84617 -32.8463,-32.84623 -32.8461,-32.84617 -32.8462,-32.84617 c -38.7648,-40.44704 -38.2283,-54.57878 -77.3398,-15.46729 l -30.9363,30.93629 c -44.7278,35.3011 -19.7253,42.14726 15.4681,77.34067 l 32.8461,32.84601 32.8459,32.84596 32.846,32.84603 32.846,32.84595 c 37.6472,32.60118 32.9672,32.72485 -2e-4,65.69223 l -32.8462,32.84619 -32.8462,32.84621 -32.8462,32.8462 -32.8462,32.8462 c -40.4468,38.76501 -54.58,38.22876 -15.4683,77.34045 l 30.936,30.936006 c 35.3004,44.7266941 42.1457,19.726149 77.3386,-15.466721 l 32.8461,-32.846171 32.8461,-32.846244 32.8462,-32.84617 32.8462,-32.84617 c 32.6013,-37.64739 32.725,-32.9673 65.6925,2.1e-4 l 32.8464,32.84639 32.8464,32.84638 32.8464,32.846383 32.8464,32.846383 c 38.7667,40.443184 38.2318,54.573398 77.3419,15.463173 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#969696;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:131.25;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       id="g2810"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         inkscape:export-ydpi="74.910812"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\questionMark2.png"
+         r="105.46989"
+         cy="272.85764"
+         cx="-5342.8389"
+         id="circle2788"
+         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#000000;stroke-width:7.08623648;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0795406,0.92631994)"
+         id="text2792"
+         y="380.13065"
+         x="-4946.6733"
+         style="font-style:normal;font-weight:normal;font-size:2.83449459px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34021235px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:255.15927124px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34021235px;stroke-opacity:1;"
+           y="380.13065"
+           x="-4946.6733"
+           id="tspan2790"
+           sodipodi:role="line">?</tspan></text>
+    </g>
+    <g
+       id="g2814"
+       inkscape:export-xdpi="74.910812"
+       inkscape:export-ydpi="74.910812">
+      <circle
+         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#000000;stroke-width:7.08623648;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2796"
+         cx="-5099.2495"
+         cy="272.85764"
+         r="105.46989"
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\questionMark2.png"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:31.002285;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m -5042.1879,337.22542 7.3073,-7.30724 c 10.5649,-8.33829 4.659,-9.95552 -3.6539,-18.26835 l -7.7585,-7.75849 -7.7584,-7.75847 -7.7585,-7.75849 -7.7585,-7.75848 c -8.8926,-7.70065 -7.7871,-7.72986 0,-15.51702 l 7.7586,-7.75853 7.7585,-7.75853 7.7585,-7.75853 7.7586,-7.75853 c 9.5538,-9.1566 12.8922,-9.02991 3.6537,-18.26843 l -7.3073,-7.3073 c -8.3383,-10.56491 -9.9553,-4.6593 -18.268,3.65373 l -7.7586,7.75857 -7.7586,7.75857 -7.7585,7.75858 -7.7586,7.75857 c -7.7007,8.8926 -7.7299,7.78725 -15.5171,5e-5 l -7.7585,-7.75852 -7.7586,-7.75854 -7.7585,-7.75853 -7.7585,-7.75852 c -9.1566,-9.55391 -9.0298,-12.89194 -18.2683,-3.6535 l -7.3074,7.3074 c -10.565,8.3384 -4.6593,9.95551 3.6537,18.26847 l 7.7585,7.75849 7.7585,7.75848 7.7584,7.75849 7.7585,7.75847 c 8.8926,7.70065 7.7871,7.72987 0,15.51702 l -7.7585,7.75853 -7.7586,7.75853 -7.7585,7.75853 -7.7585,7.75854 c -9.5539,9.1566 -12.8923,9.02993 -3.6538,18.26842 l 7.3074,7.30733 c 8.3382,10.5648 9.9551,4.65947 18.2679,-3.65336 l 7.7585,-7.75853 7.7586,-7.75854 7.7585,-7.75852 7.7585,-7.75853 c 7.7007,-8.89261 7.7299,-7.78713 15.5171,5e-5 l 7.7586,7.75858 7.7586,7.75857 7.7585,7.75858 7.7586,7.75857 c 9.157,9.553 9.0307,12.89067 18.2688,3.65252 z"
+         id="path2798"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
   </g>
 </svg>
