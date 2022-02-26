@@ -144,19 +144,21 @@ img.legend {
 }
 
 #how_to_read {
-	display: inline-block;
+	display: block;
 	z-index: 30000;
 	position: absolute;
-	right: 15px;
-	top:4%;
+	right: 20px;
+	top: 20px;
 	height: 200px;
 	box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.3);
 	border-radius: 5%
-	
 }
 
+#how_to_read.inactive{}
+
 .toggle_button {
-	display: inline-block;
+	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark.png');
+	display: block;
 	z-index: 30002;
 	position: absolute;
 	right: 30px;
@@ -164,12 +166,16 @@ img.legend {
 }
 
 .toggle_button:hover {
+	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark_hover.png');
 	cursor: pointer;
 }
 
-#x_button {
-	height: 4%;
-	top: 8%;
+.toggle_button.active {
+	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X.png');
+}
+
+.toggle_button.active:hover {
+	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X_hover.png');	
 }
 
 #help_button {

@@ -407,11 +407,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="-5578.2995"
-     inkscape:cy="937.94271"
+     inkscape:zoom="0.125"
+     inkscape:cx="1297.6515"
+     inkscape:cy="-6102.0571"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2676"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -3841,7 +3841,7 @@
              id="tspan1677"
              x="-4597.6719"
              y="3821.8562"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">Click points to see:</tspan></text>
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">Click points to show:</tspan></text>
       </g>
     </g>
     <g
@@ -10162,7 +10162,7 @@
              y="3821.8562"
              x="-4597.6719"
              id="tspan2628"
-             sodipodi:role="line">Clic los puntos para ver:</tspan></text>
+             sodipodi:role="line">Clic los puntos para mostrar:</tspan></text>
       </g>
     </g>
     <g

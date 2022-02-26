@@ -76,7 +76,7 @@ function setGlobals() {
 	//document.getElementById("as_title").innerHTML = AS_TITLE;
 	//document.getElementById("risk_title").innerHTML = RISK_TITLE;
 	document.getElementById("how_to_read").src = HOW2READ_URL;
-	document.getElementById("help_button").src = HELP_URL;
+	//document.getElementById("help_button").src = HELP_URL;
 
 	document.getElementById("search").innerHTML = SEARCH_HELPER_TEXT;
 
@@ -865,32 +865,37 @@ $(document).bind('keypress', function (event) {
 ////	hovering over it.													////
 ////////////////////////////////////////////////////////////////////////////////
 
-function changeHelpSrc(type) {
-	if (type == "hover") {
-		document.getElementById("help_button").src = HELP_URL_HOVER;
-	} else {
-		document.getElementById("help_button").src = HELP_URL;
-	}
-}
+//function changeHelpSrc(type) {
+//	if (type == "hover") {
+//		document.getElementById("help_button").src = HELP_URL_HOVER;
+//	} else {
+//		document.getElementById("help_button").src = HELP_URL;
+//	}
+//}
 
 ////////////////////////////////////////////////////////////////////////////////
 ////					 	openHelp/closeHelp FUNCTION 				  	////
 //// 			Opens/closes the help dialog box.							////
 ////////////////////////////////////////////////////////////////////////////////
 
-
-function openHelp() {
-	document.getElementById("help_button").style.display = "none";
-	document.getElementById("how_to_read").style.display = "inline-block";
-	document.getElementById("x_button").style.display = "inline-block";
-}
-
-function closeHelp () {
-	document.getElementById("help_button").style.display = "inline-block";
-	document.getElementById("how_to_read").style.display = "none";
-	document.getElementById("x_button").style.display = "none";
+function toggleHelp() {
+	$('#help_button').toggleClass('active');
 
 }
+
+
+//function openHelp() {
+//	document.getElementById("help_button").style.display = "none";
+//	document.getElementById("how_to_read").style.display = "inline-block";
+//	document.getElementById("x_button").style.display = "inline-block";
+//}
+//
+//function closeHelp () {
+//	document.getElementById("help_button").style.display = "inline-block";
+//	document.getElementById("how_to_read").style.display = "none";
+//	document.getElementById("x_button").style.display = "none";
+//
+//}
 
 ///////////////////////////////////////////////////////////////////
 ////			function enable/disableMapControls 				////
