@@ -149,6 +149,7 @@ img.caminos_logo {
 img.legend {
 	position: fixed;
 	width: 400px;
+	max-width: 98%;
 	z-index: 99;
 	bottom: 22px;
 	right: 5px
