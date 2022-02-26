@@ -408,10 +408,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="3200.6645"
-     inkscape:cy="-3384.5958"
+     inkscape:cx="1623.0207"
+     inkscape:cy="-6532.318"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2720"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -3752,131 +3752,117 @@
          ry="63.935722" />
     </g>
     <g
-       id="g1872"
+       id="g2720"
        inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\howToRead_ENG.png"
        inkscape:export-xdpi="74.910812"
-       inkscape:export-ydpi="74.910812"
-       transform="translate(4222.5,457.5)">
+       inkscape:export-ydpi="74.910812">
       <rect
          style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:19.26123238;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1637"
-         width="2055.1108"
+         width="1832.3722"
          height="1352.8809"
-         x="-4565.5239"
-         y="5208.7646"
+         x="-343.02393"
+         y="5666.2646"
          rx="93.75"
          ry="92.302696"
          inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
          inkscape:export-xdpi="74.910812"
          inkscape:export-ydpi="74.910812" />
-      <g
-         id="g1766">
-        <circle
-           inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
-           r="117.1779"
-           inkscape:export-ydpi="74.910797"
-           inkscape:export-xdpi="74.910797"
-           cy="5757.3623"
-           cx="-4339.5962"
-           id="circle1400"
-           style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <g
-           id="g1635"
-           transform="translate(-1009.9401,1341.4317)">
-          <circle
-             inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
-             r="117.1779"
-             inkscape:export-ydpi="74.910797"
-             inkscape:export-xdpi="74.910797"
-             cy="4728.9316"
-             cx="-3328.3774"
-             id="circle1559"
-             style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <ellipse
-             cy="4728.9316"
-             cx="-3328.3774"
-             id="ellipse1557"
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             rx="65.322884"
-             ry="63.935722" />
-        </g>
-      </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.12533569px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-4483.0015"
-         y="5466.2285"
+         x="-260.50146"
+         y="5923.7285"
          id="text1641"><tspan
            sodipodi:role="line"
            id="tspan1639"
-           x="-4483.0015"
-           y="5466.2285"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">How to use this map</tspan></text>
+           x="-260.50146"
+           y="5923.7285"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">Using this map</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -4471.7741,5493.3744 h 1464.3306"
+         d="m -249.2741,5950.8744 1073.93734,0"
          id="path1643"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
+      <circle
+         inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+         r="117.1779"
+         inkscape:export-ydpi="74.910797"
+         inkscape:export-xdpi="74.910797"
+         cy="6439.8623"
+         cx="-117.09619"
+         id="circle1400"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1649"
-         y="5792.6167"
-         x="-4165.061"
+         y="6475.1167"
+         x="57.438965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
-           y="5792.6167"
-           x="-4165.061"
+           y="6475.1167"
+           x="57.438965"
            id="tspan1647"
-           sodipodi:role="line">water sample site</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-4165.061"
-         y="6051.0366"
-         id="text1667"><tspan
-           sodipodi:role="line"
-           id="tspan1663"
-           x="-4165.061"
-           y="6051.0366"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">water sample site</tspan><tspan
-           sodipodi:role="line"
-           x="-4165.061"
-           y="6192.3999"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
-           id="tspan1665">with historic data</tspan></text>
+           sodipodi:role="line">Recent water quality</tspan></text>
+      <g
+         transform="translate(0,225)"
+         id="g2561">
+        <g
+           id="g1766"
+           transform="translate(4222.5,457.5)">
+          <g
+             transform="translate(-1009.9401,1341.4317)"
+             id="g1635">
+            <circle
+               style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1559"
+               cx="-3328.3774"
+               cy="4728.9316"
+               inkscape:export-xdpi="74.910797"
+               inkscape:export-ydpi="74.910797"
+               r="117.1779"
+               inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png" />
+            <ellipse
+               ry="63.935722"
+               rx="65.322884"
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="ellipse1557"
+               cx="-3328.3774"
+               cy="4728.9316" />
+          </g>
+        </g>
+        <text
+           id="text1667"
+           y="6508.5366"
+           x="57.438965"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan1665"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
+             y="6508.5366"
+             x="57.438965"
+             sodipodi:role="line">Recent &amp; historic </tspan><tspan
+             id="tspan2594"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
+             y="6649.8999"
+             x="57.438965"
+             sodipodi:role="line">water quality</tspan></text>
+      </g>
       <g
          id="g1681"
-         transform="translate(121.97592,2648.8103)">
-        <rect
-           ry="14.0625"
-           rx="14.0625"
-           y="3752.7803"
-           x="-4556.25"
-           height="28.125"
-           width="140.625"
-           id="rect1673"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1675"
-           width="140.625"
-           height="28.125"
-           x="-2904.2642"
-           y="3752.7803"
-           rx="14.0625"
-           ry="14.0625" />
+         transform="translate(4344.4759,2356.3103)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-4288.4224"
-           y="3803.1062"
+           x="-4597.6719"
+           y="3821.8562"
            id="text1679"><tspan
              sodipodi:role="line"
              id="tspan1677"
-             x="-4288.4224"
-             y="3803.1062"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">click points to see data</tspan></text>
+             x="-4597.6719"
+             y="3821.8562"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">Click points to see:</tspan></text>
       </g>
     </g>
     <g
@@ -10079,6 +10065,126 @@
            x="3205.8352"
            y="3186.2078"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px">Riesgo del agua</tspan></text>
+    </g>
+    <g
+       id="g2632"
+       transform="translate(4344.4759,3901.3103)">
+      <g
+         id="g2676"
+         inkscape:export-filename="C:\Users\aaronkrupp\Documents\GitHub\wqm-map\img\howToRead_ESP.png"
+         inkscape:export-xdpi="74.910812"
+         inkscape:export-ydpi="74.910812">
+        <rect
+           inkscape:export-ydpi="74.910812"
+           inkscape:export-xdpi="74.910812"
+           inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\howToRead_ESP.png"
+           ry="92.302696"
+           rx="93.75"
+           y="7211.2646"
+           x="-343.02393"
+           height="1352.8809"
+           width="2055.1108"
+           id="rect2598"
+           style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:19.26123238;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="translate(-4344.4759,-3901.3103)" />
+        <text
+           id="text2602"
+           y="7468.7285"
+           x="-260.50146"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.12533569px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.42250657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           transform="translate(-4344.4759,-3901.3103)"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:3.42250657px"
+             y="7468.7285"
+             x="-260.50146"
+             id="tspan2600"
+             sodipodi:role="line">Usando este mapa</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2604"
+           d="m -249.2741,7495.8744 1354.8209,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="translate(-4344.4759,-3901.3103)" />
+        <circle
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle2606"
+           cx="-117.09619"
+           cy="7984.8623"
+           inkscape:export-xdpi="74.910797"
+           inkscape:export-ydpi="74.910797"
+           r="117.1779"
+           inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+           transform="translate(-4344.4759,-3901.3103)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="57.438965"
+           y="8020.1167"
+           id="text2610"
+           transform="translate(-4344.4759,-3901.3103)"><tspan
+             sodipodi:role="line"
+             id="tspan2608"
+             x="57.438965"
+             y="8020.1167"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">Calidad del agua reciente</tspan></text>
+        <g
+           id="g2626"
+           transform="translate(-4344.4759,-2131.3103)"
+           style="">
+          <g
+             transform="translate(4222.5,457.5)"
+             id="g2618">
+            <g
+               id="g2616"
+               transform="translate(-1009.9401,1341.4317)">
+              <circle
+                 inkscape:export-filename="C:\Users\aaronkrupp\Dropbox\Mapping and Data Set\2. Online Images\Water Quality Mapping\grey-black.png"
+                 r="117.1779"
+                 inkscape:export-ydpi="74.910797"
+                 inkscape:export-xdpi="74.910797"
+                 cy="4728.9316"
+                 cx="-3328.3774"
+                 id="circle2612"
+                 style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <ellipse
+                 cy="4728.9316"
+                 cx="-3328.3774"
+                 id="ellipse2614"
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.68763161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 rx="65.322884"
+                 ry="63.935722" />
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="57.438965"
+             y="6508.5366"
+             id="text2624"><tspan
+               sodipodi:role="line"
+               x="57.438965"
+               y="6508.5366"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
+               id="tspan2622">Calidad del agua reciente</tspan><tspan
+               id="tspan2638"
+               sodipodi:role="line"
+               x="57.438965"
+               y="6649.8999"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px">e histórica </tspan></text>
+        </g>
+        <text
+           id="text2630"
+           y="3821.8562"
+           x="-4597.6719"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.79782104px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77595639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:2.77595639px"
+             y="3821.8562"
+             x="-4597.6719"
+             id="tspan2628"
+             sodipodi:role="line">Clic los puntos para ver:</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
