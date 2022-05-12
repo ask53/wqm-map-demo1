@@ -167,7 +167,7 @@ img.legend {
 
 .toggle_button {
 	height: 40px;
-	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark.png');
+	content: url('https://caminosdeagua.github.io/wqm-map/img/HowToRead_QuestionMark.png');
 	display: block;
 	z-index: 30002;
 	position: absolute;
@@ -181,13 +181,13 @@ img.legend {
 }
 
 .toggle_button:hover {
-	content: url('https://ask53.github.io/wqm-map-demo1/img/HowToRead_QuestionMark_hover.png');
+	content: url('https://caminosdeagua.github.io/wqm-map/img/HowToRead_QuestionMark_hover.png');
 	cursor: pointer;
 }
 
 .toggle_button.active {
 	height: 30px;
-	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X.png');
+	content: url('https://caminosdeagua.github.io/wqm-map/img/howToRead_X.png');
 	box-shadow: none;
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
@@ -195,7 +195,7 @@ img.legend {
 }
 
 .toggle_button.active:hover {
-	content: url('https://ask53.github.io/wqm-map-demo1/img/howToRead_X_hover.png');	
+	content: url('https://caminosdeagua.github.io/wqm-map/img/howToRead_X_hover.png');	
 }
 
 #search{
