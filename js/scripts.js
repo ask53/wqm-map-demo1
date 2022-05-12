@@ -72,16 +72,9 @@ function setGlobals() {
 		document.getElementsByName("contam_button")[i].innerHTML = CONTAMINANTS[i];
 	}
 
-	//document.getElementById("f_title").innerHTML = F_TITLE;
-	//document.getElementById("as_title").innerHTML = AS_TITLE;
-	//document.getElementById("risk_title").innerHTML = RISK_TITLE;
 	document.getElementById("how_to_read").src = HOW2READ_URL;
-	//document.getElementById("help_button").src = HELP_URL;
 
 	document.getElementById("search").innerHTML = SEARCH_HELPER_TEXT;
-
-	//document.getElementById("img-button-text").innerHTML = SATELLITE_MAP_VIEW;
-	//document.getElementById("map-tile-selector").src = SATELLITE_TILE_THUMBNAIL_URL;
 
 	document.getElementById("overlay_title").innerHTML = DISPLAY_TITLE;
 	document.getElementById("overlay_msg").innerHTML = DISPLAY_MSG;
